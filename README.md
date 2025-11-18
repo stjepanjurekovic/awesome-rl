@@ -104,6 +104,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - Mykel J. Kochenderfer, Decision Making Under Uncertainty: Theory and Application [[Book (Amazon)]](http://www.amazon.com/Decision-Making-Under-Uncertainty-Application/dp/0262029251/ref=sr_1_1?ie=UTF8&qid=1441126550&sr=8-1&keywords=kochenderfer&pebp=1441126551594&perid=1Y6RG2EGRD26659CJHH9)
  - Deep Reinforcement Learning in Action [[Book(Manning)]](https://www.manning.com/books/deep-reinforcement-learning-in-action)
  - REINFORCEMENT LEARNING AND OPTIMAL CONTROL Dimitri P. Bertsekas [BOOK, VIDEOLECTURES, AND COURSE MATERIAL, 2019](http://web.mit.edu/dimitrib/www/RLbook.html)
+ - Nathan Lambert, The RLHF Book [[Book(Manning)]](https://www.manning.com/books/the-rlhf-book)
  
 
 
